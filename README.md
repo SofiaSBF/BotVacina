@@ -1,10 +1,18 @@
 # <h1>Akira Bot - Vacinação da Primeira Infância</h1> 
 Bot de Vacinação da Primeira Infância feito no Botcamp Bruno Fazoli em abril de 2022.  
 
+<h2>Objetivo do Projeto</h2>
+
+Akira bot tem a missão de informar pessoas sobre a vacinação(de todas as doenças) de crianças de 1 a 10 anos e sobre a covid19. Nos últimos 5 anos a vacinação infantil no brasil de acordo com o Ministério da Saúde, a média de cobertura vacinal no Brasil caiu de 97%, em 2015, para 75% em 2020. Quanto mais informação e conhecimentos a população tiver sobre isso terão as ferramentas necessárias para imunizar seus filhos e reduzir o números de doenças no Brasil.
+
+<h2>Participação no projeto</h2>
+
+Atuei como desenvolvedora, com auxilio do Thiago. 
+
 <h1>Logo</h1>
 <img src="https://i.ibb.co/VLgGt4f/Akira-logo.png" alt="Logo-Akira-bot">
 
-<h2>Site e Robô</h2>
+<h2>Interface, logo e Links Úteis</h2>
 <section>
 <img src="https://i.ibb.co/YLvTx2f/Akira-Vacina-o-Primeira-infancia-site-apar-ncia.png" alt="Akira-Vacina-o-Primeira-infancia-site-apar-ncia" border="0"></a>
 <br><br>
