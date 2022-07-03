@@ -17,9 +17,9 @@ Bot de Vacinação da Primeira Infância feito no Botcamp Bruno Fazoli em abril 
     
 </div>
 </section>
-<h3>Participantes</h3>
 <section>
-<ul>
+ <h1>Criadores do Projeto:</h1>   
+<b><ul>    
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/thiago-andrade-borges/" target="_blank">                      Thiago Andrade - QA/ Curadoria</a><br>
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/sofiabfigueira/">  Sofia Figueira- Dev    </a><br>
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/anap-nader/">      Ana Nader - UX Writer  </a><br>
@@ -27,7 +27,7 @@ Bot de Vacinação da Primeira Infância feito no Botcamp Bruno Fazoli em abril 
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/thaine-belissa/">  Thaíne Belissa - UX Writer</a><br>
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/edeproft/">        Eduardo - UX Writer / Curadoria</a><br>
 <li><img src="https://i.ibb.co/4W8WfBk/linkedin.png" alt="linkedin"><a href="https://www.linkedin.com/in/paulo-humberto-moreira-62b73114/"> Paulo - Product Owner/UX </a>
-</ul>
+</b></ul>
 <br>
-<img src="">
+<img src="https://i.ibb.co/fHZkXbN/Vacina-o-akira-chatbot-imagem-pessoas.png">
 </section>
