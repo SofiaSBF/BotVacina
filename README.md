@@ -23,6 +23,7 @@ Atuei como desenvolvedora, com auxílio do Thiago.
     </div>
     <span style="display:inline;"><img src="https://i.ibb.co/Wvv7sC8/miro.png" alt=Logo-Miro> <a href="https://miro.com/app/board/uXjVO6BEX2k=/?share_link_id=140594661238" target="_blank">Fluxo Conversacional do Akira Bot</span>
 </div>
+      <span style="display:inline;"><a href="https://youtu.be/TwDxgQewRp4?t=5293">🗣️Apresentação do Pitch - Bot Demoday(9/06/2022) - Minutos 1:28:31 à 1:53:28</span></div>
 </section>
 <section>
  <h1>Criadores do Projeto:</h1>   
