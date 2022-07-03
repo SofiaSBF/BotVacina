@@ -39,3 +39,7 @@ Atuei como desenvolvedora, com auxílio do Thiago.
 <br>
 <img src="https://i.ibb.co/fHZkXbN/Vacina-o-akira-chatbot-imagem-pessoas.png">
 </section>
+<h1>Plataforma</h1>
+
+<img src="https://www.gstatic.com/dialogflow-console/common/assets/img/logo-es.png">
+
