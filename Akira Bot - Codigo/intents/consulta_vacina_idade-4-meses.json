@@ -1,0 +1,54 @@
+{
+  "id": "7bb0efe7-6344-46b0-a92c-b42d07e39dcb",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-4-meses",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-4-meses",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31bfa9c3-ea06-41b7-97a5-7fc3e47af655",
+          "name": "4meses",
+          "required": false,
+          "dataType": "@idade",
+          "value": "$4meses",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Com quatro meses, a criança vai tomar:\n2ª dose da Tríplice bacteriana (DTPw ou DTPa) 2a dose Haemophilus influenzae b\n2ª dose -\u003ePoliomelite\n2ª dose -\u003e Rotavírus\n2ª dose -\u003e Pneumocócicas conjugadas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ddde0200-0ceb-4d8b-89bb-bca41fdcb37d",
+  "name": "medicar_pos_vacina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Em alguns casos os médicos recomendam o uso de analgésicos para aliviar dores e conter a febre. Consulte um profissional de saúde antes de medicar a criança."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "7e4ee0b5-8992-4898-b5fa-ff3b2ef2fa3b",
+  "name": "conhecer_reacoes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As reações mais comuns são mal-estar ou desconforto, como dor no local da injeção e/ou febre moderada. Essas reações são temporárias e desaparecem em até 72 horas após a vacinação."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

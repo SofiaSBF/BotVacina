@@ -1,0 +1,87 @@
+[
+  {
+    "id": "8728edbc-0f17-420e-a2ef-eaafe13e11e2",
+    "data": [
+      {
+        "text": "O ",
+        "userDefined": false
+      },
+      {
+        "text": "bebê",
+        "userDefined": false
+      },
+      {
+        "text": " pode mamar na ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "da vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9281453b-5a08-4c59-9436-e40c370e189e",
+    "data": [
+      {
+        "text": "amamentar na hora da vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78e2e046-74bf-487a-8939-15f9a7d3195d",
+    "data": [
+      {
+        "text": "posso da o peito na hora da vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d2cb26d6-99a9-44cc-8838-ef0c265c9193",
+    "data": [
+      {
+        "text": "Qual a recomendação para amamentação na hora da vacina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9fdbbf0e-a98d-4adc-b352-e663714da427",
+    "data": [
+      {
+        "text": "Posso amamentar a criança na hora da vacina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

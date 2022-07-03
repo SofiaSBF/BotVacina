@@ -1,0 +1,32 @@
+[
+  {
+    "id": "fa933ebf-9410-474c-9684-399985982654",
+    "data": [
+      {
+        "text": "quatro anos",
+        "meta": "@idade",
+        "alias": "4anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "607f1595-2b43-4dc7-92f7-49210bcbaca6",
+    "data": [
+      {
+        "text": "4 anos",
+        "meta": "@idade",
+        "alias": "4anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

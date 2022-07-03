@@ -1,0 +1,124 @@
+[
+  {
+    "id": "819feb8c-a138-4974-ae98-f75d70cf1b9b",
+    "data": [
+      {
+        "text": "Meu filho esta com gripe posso vacinar ele",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0396c744-fcae-47ba-bb7a-58df5ffe0574",
+    "data": [
+      {
+        "text": "posso adiar a vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7b45ad8f-62f3-420d-a67a-6f89d8fc15eb",
+    "data": [
+      {
+        "text": "Posso deixar atrasar a carteirinha ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "64b4e5d2-1b3c-4466-9cd6-ce02c7c8f132",
+    "data": [
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": "  tem febre ",
+        "userDefined": false
+      },
+      {
+        "text": "posso vacinar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "522ae799-1279-4011-8d08-fdfd40c453d5",
+    "data": [
+      {
+        "text": "Posso adiar vacinas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "31f871c7-a96c-4bd0-9805-8fb2a6d212a2",
+    "data": [
+      {
+        "text": "Posso atrasar o cronograma de vacinas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Eu posso vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "24 anos",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

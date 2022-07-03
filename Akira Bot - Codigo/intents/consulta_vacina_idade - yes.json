@@ -1,0 +1,117 @@
+{
+  "id": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "parentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade - yes",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes",
+      "affectedContexts": [
+        {
+          "name": "consulta_vacina_idade-yes-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Que ótimo, isso é importante para manter a saúde da criança. Preciso  que você me responda mais uma pergunta.\n\nQual a idade da criança?\n\nLembrando que no momento estamos abordando apenas a vacinação de zero a dez anos."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "size": "10px",
+                      "text": "RN"
+                    },
+                    {
+                      "text": "1 mês"
+                    },
+                    {
+                      "text": "2 meses"
+                    },
+                    {
+                      "text": "3 meses"
+                    },
+                    {
+                      "text": "4 meses"
+                    },
+                    {
+                      "text": "5 meses"
+                    },
+                    {
+                      "text": "6 meses"
+                    },
+                    {
+                      "text": "7 meses"
+                    },
+                    {
+                      "text": "8 meses"
+                    },
+                    {
+                      "text": "9 meses"
+                    },
+                    {
+                      "text": "12 meses"
+                    },
+                    {
+                      "text": "15 meses"
+                    },
+                    {
+                      "text": "18 meses"
+                    },
+                    {
+                      "text": "24 meses"
+                    },
+                    {
+                      "text": "4 meses"
+                    },
+                    {
+                      "text": "5 anos"
+                    },
+                    {
+                      "text": "6 anos"
+                    },
+                    {
+                      "text": "9 anos"
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

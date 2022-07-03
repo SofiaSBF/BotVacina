@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e82cb819-ebac-447c-8378-80751661fdbf",
+    "data": [
+      {
+        "text": "cinco anos",
+        "meta": "@idade",
+        "alias": "5anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ea44486c-2888-485c-a4d2-9e00065605fc",
+    "data": [
+      {
+        "text": "5 anos",
+        "meta": "@idade",
+        "alias": "5anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "3fb6f59d-caa7-4f17-afee-4f22b9a5d496",
+    "data": [
+      {
+        "text": "local de vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0ab6ee01-9c58-4392-9a94-3c2d6314e5ea",
+    "data": [
+      {
+        "text": "Local de vacinação",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "65c9a9c8-2b73-4dc2-9641-3624d1d73acb",
+    "data": [
+      {
+        "text": "Onde vacino ",
+        "userDefined": false
+      },
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e33ce2b5-5e9f-491f-983d-8bdf51fe2cf7",
+    "data": [
+      {
+        "text": "Quais ",
+        "userDefined": false
+      },
+      {
+        "text": "locais posso vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2570919c-55d2-4c64-bb21-f1c5ab24a5ab",
+    "data": [
+      {
+        "text": "Onde posso levar a criança ",
+        "userDefined": false
+      },
+      {
+        "text": "para vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

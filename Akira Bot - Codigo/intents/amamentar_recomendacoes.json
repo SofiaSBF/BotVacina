@@ -1,0 +1,35 @@
+{
+  "id": "d4cdd9dd-0602-4a14-8ec0-eb0580845504",
+  "name": "amamentar_recomendacoes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O Ministério da Saúde recomenda e incentiva a amamentação, antes e durante o uso de vacinas injetáveis em crianças, para reduzir a dor e estresse do bebê."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

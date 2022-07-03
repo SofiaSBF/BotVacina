@@ -1,0 +1,35 @@
+{
+  "id": "43780a4e-5834-428c-bb46-8403c9cd98e9",
+  "name": "contrair_doenca_vacinado",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Após completar o esquema de vacinação, a criança fica protegida da doença que a vacina oferece proteção. Porém, algumas vacinas não conseguem evitar a doença por completo, mas amenizam sua gravidade e têm como propósito prevenir as complicações."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

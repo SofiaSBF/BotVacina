@@ -1,0 +1,32 @@
+[
+  {
+    "id": "3383546b-1946-459a-a27d-4762788c3c72",
+    "data": [
+      {
+        "text": "cinco meses",
+        "meta": "@idade",
+        "alias": "5meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cb9ea20e-cfd0-4c9c-84ca-299fe48ec542",
+    "data": [
+      {
+        "text": "5 meses",
+        "meta": "@idade",
+        "alias": "5meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

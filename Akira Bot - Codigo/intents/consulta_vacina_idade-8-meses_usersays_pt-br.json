@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b700b71c-5a3d-460b-96c5-f8595708cf8f",
+    "data": [
+      {
+        "text": "oito meses",
+        "meta": "@idade",
+        "alias": "8meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9c632132-660f-4e27-abab-6204eaa8d8f7",
+    "data": [
+      {
+        "text": "8 meses",
+        "meta": "@idade",
+        "alias": "8meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

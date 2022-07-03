@@ -1,0 +1,32 @@
+[
+  {
+    "id": "066268e6-0ae0-42d5-8f0b-83cce18abd55",
+    "data": [
+      {
+        "text": "seis meses",
+        "meta": "@idade",
+        "alias": "6meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8f4d4dea-a018-4af1-99b0-f43e2c3893ff",
+    "data": [
+      {
+        "text": "6 meses",
+        "meta": "@idade",
+        "alias": "6meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

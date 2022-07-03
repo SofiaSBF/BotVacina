@@ -1,0 +1,35 @@
+{
+  "id": "af0ce4b4-39e5-474b-bf29-bc831209d1f3",
+  "name": "confiar_na_vacina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "As vacinas são seguras! Todas as vacinas passam por rigorosos testes de segurança, incluindo estudos clínicos, antes de serem aprovadas para o público."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

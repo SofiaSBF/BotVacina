@@ -1,0 +1,119 @@
+[
+  {
+    "id": "47a0f74b-8132-4a23-b00d-3e335c126221",
+    "data": [
+      {
+        "text": "Tem problema ",
+        "userDefined": false
+      },
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "userDefined": false
+      },
+      {
+        "text": " muitas ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas de",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "userDefined": false
+      },
+      {
+        "text": " vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "fe18814a-407c-4de4-a25a-78ac3eaadb7d",
+    "data": [
+      {
+        "text": "Pq  meu filho tomou varias vacinas de uma vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9ed9e8d7-fd75-41d3-ba35-27b8d9bc1ebe",
+    "data": [
+      {
+        "text": "porque meu filho tomou varias vacinas de uma vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "918e955e-8a9c-461a-8269-6dfff0796943",
+    "data": [
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " precisa ",
+        "userDefined": false
+      },
+      {
+        "text": "tomar",
+        "userDefined": false
+      },
+      {
+        "text": " varias ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas de uma",
+        "userDefined": false
+      },
+      {
+        "text": " vez",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97ae835a-76ba-40f6-b1d6-0640eee23830",
+    "data": [
+      {
+        "text": "Existe alguma vacina que não pode ser tomada junto com outra?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

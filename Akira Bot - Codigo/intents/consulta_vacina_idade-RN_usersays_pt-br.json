@@ -1,0 +1,32 @@
+[
+  {
+    "id": "76122d2f-5efa-4ef6-bd31-99901a4fa315",
+    "data": [
+      {
+        "text": "RN",
+        "meta": "@idade",
+        "alias": "RN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "30c66e7b-f06a-4d8f-8f01-50d79849ddfb",
+    "data": [
+      {
+        "text": "Recém nascido",
+        "meta": "@idade",
+        "alias": "RN",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

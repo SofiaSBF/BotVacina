@@ -1,0 +1,78 @@
+[
+  {
+    "id": "d8f1154d-41f4-4fd8-9b8e-b37e0c45d744",
+    "data": [
+      {
+        "text": "oi",
+        "userDefined": false
+      },
+      {
+        "text": " gostaria de consultar ",
+        "userDefined": false
+      },
+      {
+        "text": "as vacinas para a",
+        "userDefined": false
+      },
+      {
+        "text": " idade ",
+        "userDefined": false
+      },
+      {
+        "text": "do",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "meu filho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aa00e7e8-9fb4-425a-a507-caca4b3341d3",
+    "data": [
+      {
+        "text": "consultar ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas",
+        "userDefined": false
+      },
+      {
+        "text": " por idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "vacina",
+        "meta": "@sys.location",
+        "alias": "location",
+        "userDefined": false
+      },
+      {
+        "text": " por idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

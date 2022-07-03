@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1959a1cc-47f0-4741-af21-8c9e2e0497f1",
+    "data": [
+      {
+        "text": "procurar outro tópico",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "bbf818ee-e6d0-4075-9e35-bc828ccc8980",
+    "data": [
+      {
+        "text": "preciso de mais informações",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f55f119f-2250-41ed-8311-372fdc86d292",
+    "data": [
+      {
+        "text": "posso ajudar com",
+        "userDefined": false
+      },
+      {
+        "text": " mais alguma coisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

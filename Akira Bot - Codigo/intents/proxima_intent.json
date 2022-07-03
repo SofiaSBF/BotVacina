@@ -1,0 +1,55 @@
+{
+  "id": "49e75e3a-272e-4274-8f1f-c13c58f2beb1",
+  "name": "proxima_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Aqui estão mais alguns temas! Escolha um e digite sua pergunta para começarmos:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "• Os antivacinas podem estar certos;\n     • A vacina pode causar autismo;\n     • Quais as reações da vacina;\n     • A vacina pode deixar a criança doente;\n     • Posso atrasar o cronograma de vacinas;\n     • Existe alguma vacina que não pode ser tomada junto com outra;\n     • O que preciso levar para vacinar uma criança;\n     • Onde posso levar a criança para vacinar;\n     • Posso amamentar a criança na hora da vacina;\n     • Posso medicar a criança depois de vacina;\n     • Consultar vacina  por idade;"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Se quiser encerrar nossa conversa, digite SAIR e eu me despeço de você."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

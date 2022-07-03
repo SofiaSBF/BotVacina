@@ -1,0 +1,143 @@
+[
+  {
+    "id": "1e20a05b-a063-4a0a-8233-40a93c7fa08e",
+    "data": [
+      {
+        "text": "Sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "452a11aa-1c70-41aa-a92b-32c27ce1e6ef",
+    "data": [
+      {
+        "text": "fim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "82e61550-5f7d-4ced-81ec-6987fa34a01a",
+    "data": [
+      {
+        "text": "até mais",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90802c74-7d8e-43ba-8425-e6ce32c99bdb",
+    "data": [
+      {
+        "text": "adeus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2d718ca3-0b62-49b9-83b3-642d57fdf853",
+    "data": [
+      {
+        "text": "Encerrar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4d94cc1f-7862-473f-8555-b0897924f8d0",
+    "data": [
+      {
+        "text": "tchau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7ac89d92-429d-4fd3-b067-d5b1963a0e50",
+    "data": [
+      {
+        "text": "acabar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "97208c0f-70af-4dd6-a278-8c928a8fa86d",
+    "data": [
+      {
+        "text": "finalizar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e227fcec-2395-48b3-a633-258987a9c1fb",
+    "data": [
+      {
+        "text": "terminar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "sair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "SAIR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

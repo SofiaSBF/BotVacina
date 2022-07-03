@@ -1,0 +1,111 @@
+[
+  {
+    "id": "4c14bc19-bb4c-4521-97f4-4d39f6bcb851",
+    "data": [
+      {
+        "text": "Qual documento levo na hora de vacinar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "59b65ded-76dc-49f4-ac27-00d66bd48dba",
+    "data": [
+      {
+        "text": "Que documento levo para vacinar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3a65824e-d589-4b1b-902a-9a1e271bd83f",
+    "data": [
+      {
+        "text": "que documento precisa na ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacinar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4cdc3fc-e5fb-4f88-9a75-2d7b08c5afc3",
+    "data": [
+      {
+        "text": "Quais documentos são necessários na ",
+        "userDefined": false
+      },
+      {
+        "text": "hora",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66435105-58c4-4876-8e34-b300a95cb0de",
+    "data": [
+      {
+        "text": "O que preciso ",
+        "userDefined": false
+      },
+      {
+        "text": "levar para vacinar uma",
+        "userDefined": false
+      },
+      {
+        "text": " criança?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "3f2e885c-816a-4cf9-aa0e-8f33448feab7",
+    "data": [
+      {
+        "text": "próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5a899a8c-a1ea-4558-8f2d-560a8b47ac56",
+    "data": [
+      {
+        "text": "próxima",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a2e8303d-609b-497e-aa03-d8576d07998d",
+    "data": [
+      {
+        "text": "PROXIMA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

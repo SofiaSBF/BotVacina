@@ -1,0 +1,109 @@
+[
+  {
+    "id": "4cdbc1ed-bdb3-48d4-b1fa-ffbfb5a8a76b",
+    "data": [
+      {
+        "text": "confinaça",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7988526b-2828-4e55-9004-cbd968683d04",
+    "data": [
+      {
+        "text": "como vou saber se é confiavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0162ac6a-7ec8-4619-b4c1-745a6aaf9b11",
+    "data": [
+      {
+        "text": "quem garante a confiança",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "90bd4a0d-6353-4ddd-a563-f7d4f32a37c9",
+    "data": [
+      {
+        "text": "é confiavel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "220aa71a-d74f-401a-aa5a-c91c96f8771b",
+    "data": [
+      {
+        "text": "Devo confiar nas ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d15fab3f-c546-4912-85cc-dd6356090189",
+    "data": [
+      {
+        "text": "Vacinas",
+        "userDefined": false
+      },
+      {
+        "text": " são seguras?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a412773b-8efe-4fad-8f9f-47a64b149570",
+    "data": [
+      {
+        "text": "existe ",
+        "userDefined": false
+      },
+      {
+        "text": "microchip",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

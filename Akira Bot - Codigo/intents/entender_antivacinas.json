@@ -1,0 +1,35 @@
+{
+  "id": "e32cc374-1741-4e7c-9d89-a258c1f637ba",
+  "name": "entender_antivacinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não, pois graças às vacinas, a chance de você conhecer alguém que tenha contraído paralisia infantil (poliomielite) é quase zero. Além da redução na mortalidade, não apenas de crianças, mas também de adultos e idosos."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

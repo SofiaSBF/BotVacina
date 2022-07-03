@@ -1,0 +1,32 @@
+[
+  {
+    "id": "d88891ab-7ef0-4da4-b5c7-e508aab6cf33",
+    "data": [
+      {
+        "text": "dois meses",
+        "meta": "@idade",
+        "alias": "2meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b086c3e-6aeb-4ca2-a205-2267f1049ae2",
+    "data": [
+      {
+        "text": "2 meses",
+        "meta": "@idade",
+        "alias": "2meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

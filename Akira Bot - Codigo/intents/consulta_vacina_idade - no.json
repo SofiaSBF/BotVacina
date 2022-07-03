@@ -1,0 +1,66 @@
+{
+  "id": "afe1fce8-9f24-4f67-8b1f-04126eeff6e7",
+  "parentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade - no",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Você pode confirmar se o cartão de vacina está atualizado no posto mais próximo ou consultando o calendário de vacinação nesse link:"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "options": [
+                    {
+                      "image": {
+                        "src": {
+                          "rawUrl": "https://i.ibb.co/b7ZdWtY/site.png"
+                        }
+                      },
+                      "text": "Site(Clique Aqui)",
+                      "link": "https://sbim.org.br/calendarios-de-vacinacao"
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

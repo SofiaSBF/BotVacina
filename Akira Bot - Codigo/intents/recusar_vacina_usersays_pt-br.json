@@ -1,0 +1,106 @@
+[
+  {
+    "id": "6fc9fb21-e162-4b7b-b174-dc88230fd236",
+    "data": [
+      {
+        "text": "Qual a consequência de não ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "37c13896-fcb7-423a-bae0-355408b5a546",
+    "data": [
+      {
+        "text": "o que evito ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinando meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2f60cdc0-5cbe-4855-9a5e-a83267e7e64b",
+    "data": [
+      {
+        "text": "o que acontece se não ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c01a3c93-f356-4644-8ad6-27e8e05d01be",
+    "data": [
+      {
+        "text": "E se eu não ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

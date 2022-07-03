@@ -1,0 +1,47 @@
+[
+  {
+    "id": "d993a0e3-22e6-42d8-8758-5122fb07ae66",
+    "data": [
+      {
+        "text": "vinte e ",
+        "userDefined": false
+      },
+      {
+        "text": "quatro meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35e37d5f-4daf-473f-b7b7-59781b62ac75",
+    "data": [
+      {
+        "text": "2 anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "db180e3c-c4e5-496c-a0e5-ff3275aad861",
+    "data": [
+      {
+        "text": "24 meses",
+        "meta": "@idade",
+        "alias": "24meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

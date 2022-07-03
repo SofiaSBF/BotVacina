@@ -1,0 +1,35 @@
+{
+  "id": "db599384-3f30-4fd4-8352-e4da82c4d0a6",
+  "name": "explicar_sindrome_guillian_barre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "É caracterizada por alterações no sistema nervoso, devido a agressões pelo sistema imunológico, o que provoca fraqueza muscular e por vezes paralisia. Qualquer pessoa pode pegar essa síndrome, mas o risco para quem tem mais de 50 anos é de duas a três vezes maior do que para os mais jovens."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

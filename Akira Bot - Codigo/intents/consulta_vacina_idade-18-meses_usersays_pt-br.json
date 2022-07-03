@@ -1,0 +1,45 @@
+[
+  {
+    "id": "97065ace-9b7c-46f2-a5cf-9562b2bc8edb",
+    "data": [
+      {
+        "text": "dezoito meses",
+        "meta": "@idade",
+        "alias": "18meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "73223320-6cf7-4aa4-b535-5fc552d54fd8",
+    "data": [
+      {
+        "text": "3 anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "41d5cf4c-b575-45f1-b70f-62eea892a77d",
+    "data": [
+      {
+        "text": "18 meses",
+        "meta": "@idade",
+        "alias": "18meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

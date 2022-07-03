@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6ad148c8-81a3-47d0-a28e-9f4c84fefcea",
+    "data": [
+      {
+        "text": "como ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina",
+        "userDefined": false
+      },
+      {
+        "text": " age no organismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "36b7d4c1-adc4-4b7a-a41f-b1a6c754e4af",
+    "data": [
+      {
+        "text": "Como ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina",
+        "userDefined": false
+      },
+      {
+        "text": " funciona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

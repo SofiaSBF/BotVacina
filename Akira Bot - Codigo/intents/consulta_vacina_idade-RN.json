@@ -1,0 +1,59 @@
+{
+  "id": "19340055-83ba-48eb-bca7-84c361fff095",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-RN",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-RN",
+      "affectedContexts": [
+        {
+          "name": "consulta_vacina_idade-RN-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "43599b71-fbc4-437e-a229-afcdfdf8128c",
+          "name": "RN",
+          "required": true,
+          "dataType": "@idade",
+          "value": "$RN",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ao nascer a criança deve tomar:\n BCG de preferência na maternidade\n1ª dose Hepatite B nas primeiras 12h"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

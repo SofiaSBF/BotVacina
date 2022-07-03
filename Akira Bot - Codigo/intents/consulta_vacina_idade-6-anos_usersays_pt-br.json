@@ -1,0 +1,32 @@
+[
+  {
+    "id": "9ac2ec74-248e-4f53-a3b6-7990fac2e614",
+    "data": [
+      {
+        "text": "6 anos",
+        "meta": "@idade",
+        "alias": "6anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ddb6aede-e725-4225-be39-5ca51e2f2608",
+    "data": [
+      {
+        "text": "seis anos",
+        "meta": "@idade",
+        "alias": "6anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "aa90e052-857e-4dac-930c-6115df5921b2",
+    "data": [
+      {
+        "text": "quinze meses",
+        "meta": "@idade",
+        "alias": "15meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c22afe8d-406e-4409-8250-4c9e392fc90d",
+    "data": [
+      {
+        "text": "15 meses",
+        "meta": "@idade",
+        "alias": "15meses",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

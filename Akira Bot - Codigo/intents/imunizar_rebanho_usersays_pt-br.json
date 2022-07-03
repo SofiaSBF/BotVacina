@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6f870bdb-be89-499b-99ea-8f9fd2d820a5",
+    "data": [
+      {
+        "text": "imunidade coletiva",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b54c7c23-ddea-443f-b324-c7257a3d7b5d",
+    "data": [
+      {
+        "text": "rebanho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f418e00-f5be-45ff-b224-c4febe5920d1",
+    "data": [
+      {
+        "text": "efeito rebanho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b6504d73-165d-476f-b28e-852868ed5a5e",
+    "data": [
+      {
+        "text": "O que é imunidade coletiva ou “efeito rebanho”?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b636392c-5d74-4a72-a8b6-2e48345a9670",
+    "data": [
+      {
+        "text": "Como funciona o efeito rebanho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e69137d8-2368-43b6-a19b-8331009920b1",
+    "data": [
+      {
+        "text": "O que é efeito rebanho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0afedbba-ecc8-4948-a62d-37470f404311",
+    "data": [
+      {
+        "text": "O que é imunidade coletiva?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "ed8d9e19-f186-467a-ad7e-714d19abca55",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-9-meses",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-9-meses",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "413533d4-8f23-4683-8402-76a27b0cbadf",
+          "name": "9meses",
+          "required": false,
+          "dataType": "@idade",
+          "value": "$9meses",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Influenza (gripe), que é anual\n1ª dose Febre amarela"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

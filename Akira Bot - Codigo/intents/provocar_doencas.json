@@ -1,0 +1,35 @@
+{
+  "id": "6748a71c-3060-4a21-a5b2-89b1a9ec721b",
+  "name": "provocar_doencas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não, as vacinas são extremamente seguras. Quase todo mal-estar ou desconforto após a vacinação é menor e temporário, como uma dor no local da injeção ou febre moderada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

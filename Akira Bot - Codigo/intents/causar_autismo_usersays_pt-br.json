@@ -1,0 +1,87 @@
+[
+  {
+    "id": "6ecc48e7-d2f6-41bb-966c-b7743a84768c",
+    "data": [
+      {
+        "text": "Vacinas",
+        "userDefined": false
+      },
+      {
+        "text": " causam autismo ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e1d1b57c-1bf2-4b22-aad6-d53f2f8ad2dd",
+    "data": [
+      {
+        "text": "autismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 5,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f9df8bb-8e0c-4e7e-8118-19acc4469172",
+    "data": [
+      {
+        "text": "A vacina",
+        "userDefined": false
+      },
+      {
+        "text": " causa autismo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a1eb71fd-d578-4ba5-ab7d-4c5c6c390dce",
+    "data": [
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " pode ficar autista depois ",
+        "userDefined": false
+      },
+      {
+        "text": "de ser vacinado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "46fbe7c3-07fd-4ecd-83d2-86a1013a0027",
+    "data": [
+      {
+        "text": "vacina",
+        "userDefined": false
+      },
+      {
+        "text": " causa autismo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

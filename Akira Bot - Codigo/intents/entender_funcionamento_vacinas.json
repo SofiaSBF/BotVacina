@@ -1,0 +1,35 @@
+{
+  "id": "60f35e7e-d67c-4405-b12a-2b4744dba784",
+  "name": "entender_funcionamento_vacinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Quando a vacina é aplicada, estimula o corpo a produzir anticorpos contra pequenos organismos que causam doenças. Então, se um vírus ou bactéria invadir o corpo de uma pessoa vacinada, o organismo dela já saberá como combatê-lo. Viu só como é importante se vacinar!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

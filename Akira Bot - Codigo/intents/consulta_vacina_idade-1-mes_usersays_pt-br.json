@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7825b456-0183-4e48-8789-abee986adc23",
+    "data": [
+      {
+        "text": "um mês",
+        "meta": "@idade",
+        "alias": "1mes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4ff7940-c5c6-4989-8f15-020574302a24",
+    "data": [
+      {
+        "text": "1 mês",
+        "meta": "@idade",
+        "alias": "1mes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

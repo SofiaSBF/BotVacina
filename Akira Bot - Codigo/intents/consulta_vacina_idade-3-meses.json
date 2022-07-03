@@ -1,0 +1,54 @@
+{
+  "id": "73f70f8c-3d38-43e4-9faf-981b6c60cfe5",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-3-meses",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-3-meses",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9bc16b3-7bb8-4d47-8bfd-9df9128fc357",
+          "name": "3meses",
+          "required": false,
+          "dataType": "@idade",
+          "value": "$3meses",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Com três meses, ela vai tomar:\n 1ª dose da Meningocócicas conjugadas ACWY/C\n 1ªdose Meningocócica B."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

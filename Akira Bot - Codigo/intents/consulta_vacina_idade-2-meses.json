@@ -1,0 +1,54 @@
+{
+  "id": "6cd0383c-5e92-4890-b835-eb81327ba17b",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-2-meses",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-2-meses",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fe67799a-814c-4562-b38b-5779c3e801c6",
+          "name": "2meses",
+          "required": false,
+          "dataType": "@idade",
+          "value": "$2meses",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Com dois meses, a criança vai tomar:\n2ª dose Hepatite B\n1ª dose Tríplice bacteriana (DTPw ou DTPa),\n1ª dose Haemophilus influenzae b\n1ª dose Poliomelite (vírus inativados)\n1ª dose Rotavírus\n1ª dose Pneumocócicas conjugadas."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

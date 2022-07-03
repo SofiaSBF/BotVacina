@@ -1,0 +1,36 @@
+{
+  "id": "d27b3a0a-2f18-4931-85ca-5c30963959ee",
+  "name": "finalizar_atendimento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Até logo, então! Se precisar de mais alguma informação é só me chamar novamente!",
+            "Vou encerrar nossa conversa por aqui. Se tiver mais dúvidas sobre vacinação infantil é só me chamar. E não se esqueça: vacinas salvam vidas! ;)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

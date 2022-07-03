@@ -1,0 +1,32 @@
+[
+  {
+    "id": "b0397d24-ead0-4a08-ba0b-c466f8631e5c",
+    "data": [
+      {
+        "text": "doze meses",
+        "meta": "@idade",
+        "alias": "12meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2cc6d957-d396-4af5-a5fa-3adf1f34a5b4",
+    "data": [
+      {
+        "text": "12 meses",
+        "meta": "@idade",
+        "alias": "12meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

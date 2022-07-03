@@ -1,0 +1,118 @@
+[
+  {
+    "id": "c3e06633-84f7-4c44-9664-13a86d955d17",
+    "data": [
+      {
+        "text": "vacinar meu filho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00b5eab1-6e46-408b-a373-35e58a85fd95",
+    "data": [
+      {
+        "text": "vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8ce44bb5-2a28-4fa3-b286-0ab477a5f029",
+    "data": [
+      {
+        "text": "me fala ",
+        "userDefined": false
+      },
+      {
+        "text": "o que é vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b4b8318c-2a85-4d5c-ab03-340a83eb36ec",
+    "data": [
+      {
+        "text": "definição ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "abf9ee42-9feb-4151-a5cb-ff7e1d80ed6d",
+    "data": [
+      {
+        "text": "Vacina o que é?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "707f3156-ec68-4e5b-a67c-7915c23377d1",
+    "data": [
+      {
+        "text": "Vacina é o que?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "06f226d7-120d-4a5c-ae19-d87091dc86c7",
+    "data": [
+      {
+        "text": "o que são ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinas?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c1031deb-ba26-4753-ae98-0545918d8d4d",
+    "data": [
+      {
+        "text": "o que é uma vacina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

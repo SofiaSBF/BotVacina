@@ -1,0 +1,35 @@
+{
+  "id": "ebcd7453-5a10-4ae5-a677-6b39433c91dd",
+  "name": "multiplas_vacinas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Sim, às vezes uma vacina pode interferir na eficácia de outra ou de ambas as vacinas. O ideal é serem aplicadas com um intervalo de 30 dias, para mais informações, consulte o posto de saúde mais próximo a sua casa."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

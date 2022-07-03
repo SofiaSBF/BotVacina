@@ -1,0 +1,135 @@
+[
+  {
+    "id": "d1f5c3f4-9765-4c70-b62b-f4f16acb06b5",
+    "data": [
+      {
+        "text": "Pra que vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "50a451f9-8edb-43a7-9e8d-ba084bdabf29",
+    "data": [
+      {
+        "text": "Por",
+        "userDefined": false
+      },
+      {
+        "text": " que a criança deve ",
+        "userDefined": false
+      },
+      {
+        "text": "ser vacinada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6ae3d2dd-6e90-4854-888c-066a3f8db8bd",
+    "data": [
+      {
+        "text": "Porque ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": " é importante?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2211ae15-87eb-4c29-b2a8-83e1e7989a8d",
+    "data": [
+      {
+        "text": "Por",
+        "userDefined": false
+      },
+      {
+        "text": " que tenho ",
+        "userDefined": false
+      },
+      {
+        "text": "que vacinar meu",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2c4be8c3-f71b-4386-ae6e-695b1a287db0",
+    "data": [
+      {
+        "text": "Vacinar",
+        "userDefined": false
+      },
+      {
+        "text": " ou não ",
+        "userDefined": false
+      },
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

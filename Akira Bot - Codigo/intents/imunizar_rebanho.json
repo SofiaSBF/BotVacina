@@ -1,0 +1,35 @@
+{
+  "id": "4a2aed64-e26f-42fe-8e67-89cc6084f5e3",
+  "name": "imunizar_rebanho",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A imunidade coletiva ou “efeito rebanho” acontece quando um grande número de pessoas são vacinadas contra uma doença.  Nessa situação, como a maioria das pessoas está imune, a doença não se espalha facilmente e, por isso, se torna cada vez mais rara. Em alguns casos as doenças desaparecem completamente da comunidade."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

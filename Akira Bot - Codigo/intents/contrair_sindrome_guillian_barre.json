@@ -1,0 +1,35 @@
+{
+  "id": "fe2c08e6-b273-4991-8420-c721c14d754a",
+  "name": "contrair_sindrome_guillian_barre",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "São raros os casos em que a síndrome ocorreu dias ou semanas após a vacinação como a que previne do tétano e da gripe (influenza). O que se sabe de fato é que a chance de uma pessoa desenvolver Guillain-Barré em decorrência da infecção pelo vírus da gripe, é muito maior do que pela vacina."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

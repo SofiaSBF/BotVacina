@@ -1,0 +1,75 @@
+[
+  {
+    "id": "19d17b39-c997-41b9-a6f3-3504e65037ba",
+    "data": [
+      {
+        "text": "posso da alguma coisa ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ele não ter febre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "35baf71e-9dc1-4792-bd62-623f4e6a3a86",
+    "data": [
+      {
+        "text": "Posso dar remedio ao meu filho depois da vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d3bd3517-8cf9-47be-ba2b-3dfda960e860",
+    "data": [
+      {
+        "text": "Posso dar paracetamol depois da vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "baf7de05-7205-4ea4-a6b0-bf66b97917b1",
+    "data": [
+      {
+        "text": "Devo dar algum remédio para a criança após a vacinação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "338e78e2-d700-4d39-8e7f-18316c447172",
+    "data": [
+      {
+        "text": "Posso medicar a criança depois de vacinar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

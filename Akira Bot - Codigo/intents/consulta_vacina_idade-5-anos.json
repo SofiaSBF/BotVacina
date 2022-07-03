@@ -1,0 +1,54 @@
+{
+  "id": "8da3d3fe-53ae-4908-ae07-27de20eec066",
+  "parentId": "2919bb2f-5ac4-458c-bf51-ef3b6127034f",
+  "rootParentId": "cc412b9c-ef3f-49c3-8eec-c4a7cd186bfd",
+  "name": "consulta_vacina_idade-5-anos",
+  "auto": true,
+  "contexts": [
+    "consulta_vacina_idade-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "consulta_vacina_idade.consulta_vacina_idade-yes.consulta_vacina_idade-5-anos",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b3fb8690-d14e-47f8-b264-3f02e5808d38",
+          "name": "5anos",
+          "required": false,
+          "dataType": "@idade",
+          "value": "$5anos",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Reforço a Tríplice bacteriana (DTPw ou DTPa), da Poliomelite (vírus inativados) e da Meningocócicas conjugadas ACWY/C.\nCampanha de vacinação da Influenza (gripe)."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

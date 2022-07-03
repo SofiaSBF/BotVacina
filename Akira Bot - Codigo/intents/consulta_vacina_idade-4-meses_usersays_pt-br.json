@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ddb70b63-8902-4e11-90ed-dacf808e64f0",
+    "data": [
+      {
+        "text": "4 meses",
+        "meta": "@idade",
+        "alias": "4meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f4d5ce94-a662-4c68-9b66-cb4ac6424305",
+    "data": [
+      {
+        "text": "quatro meses",
+        "meta": "@idade",
+        "alias": "4meses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

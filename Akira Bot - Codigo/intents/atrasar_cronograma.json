@@ -1,0 +1,35 @@
+{
+  "id": "6c149b61-61b5-476b-a4c4-25e49843db5c",
+  "name": "atrasar_cronograma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não, as vacinas são extremamente seguras. Quase todo mal-estar ou desconforto após a vacinação é menor e temporário, como uma dor no local da injeção ou febre moderada."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

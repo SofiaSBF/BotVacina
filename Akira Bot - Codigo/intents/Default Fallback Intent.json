@@ -1,0 +1,37 @@
+{
+  "id": "68ade88a-cfa1-49c6-9605-f63d6221abf8",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Desculpe, mas não compreendi.",
+            "Não consegui compreender, desculpe.",
+            "Humm...sobre isso eu não consigo responder! Por enquanto nossa conversa aqui é somente sobre vacinação de zero a dez anos. Em breve poderemos falar sobre a vacina em outras faixas etárias, ok?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

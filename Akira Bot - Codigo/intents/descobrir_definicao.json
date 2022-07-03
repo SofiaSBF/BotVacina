@@ -1,0 +1,35 @@
+{
+  "id": "7b4c329b-182c-41a2-a535-8e3232fa154c",
+  "name": "descobrir_definicao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A vacina é uma substância biológica, preparada a partir dos pequenos organismos que causam as doenças (bactérias ou vírus), modificados em laboratório para não provocar mais a doença."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

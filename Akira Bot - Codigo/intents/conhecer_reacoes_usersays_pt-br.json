@@ -1,0 +1,87 @@
+[
+  {
+    "id": "ca7aa387-6d4f-4dd3-840a-e7a7268b59b6",
+    "data": [
+      {
+        "text": "reação a vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b88ffd8b-38cd-42a3-9ed7-6f23b5f3babd",
+    "data": [
+      {
+        "text": "o que reação ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d414b7f-30ad-4530-a94b-472ac56aedd0",
+    "data": [
+      {
+        "text": "quais os tipos de reações ",
+        "userDefined": false
+      },
+      {
+        "text": "que a vacina da",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f9e647cb-7e3e-4356-b015-fcfad2ae0c99",
+    "data": [
+      {
+        "text": "Porque ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina da",
+        "userDefined": false
+      },
+      {
+        "text": " reação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cf3e1d33-f37e-401e-b772-3155e639aa59",
+    "data": [
+      {
+        "text": "Quais as reações ",
+        "userDefined": false
+      },
+      {
+        "text": "da vacina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

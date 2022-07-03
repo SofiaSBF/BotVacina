@@ -1,0 +1,9 @@
+{
+  "id": "2dd240a0-6345-488b-bee3-a824e7ef2d16",
+  "name": "idade",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

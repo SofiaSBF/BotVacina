@@ -1,0 +1,165 @@
+[
+  {
+    "id": "52b3cfaf-b642-4bf8-9d89-162c75e0ccd2",
+    "data": [
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " vai ficar doente depois ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8f0efc5-9309-41e7-acee-05a9148c05fb",
+    "data": [
+      {
+        "text": "pegar doença depois ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacinado ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5d10bcc7-9bab-4f5d-9cf9-c0174c9896eb",
+    "data": [
+      {
+        "text": "meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " pode ficar doente, depois ",
+        "userDefined": false
+      },
+      {
+        "text": "da vacina ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02ee514e-f89a-47af-a34a-229182000d3d",
+    "data": [
+      {
+        "text": "Mesmo após ",
+        "userDefined": false
+      },
+      {
+        "text": "a vacina, a",
+        "userDefined": false
+      },
+      {
+        "text": " criança pode pegar a doença?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e23a282-f985-4b57-af14-524c0f10627a",
+    "data": [
+      {
+        "text": "Uma",
+        "userDefined": false
+      },
+      {
+        "text": " pessoa pode ficar doente mesmo depois ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacinada?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "027891b9-b366-428d-b853-41e17b79c45f",
+    "data": [
+      {
+        "text": "Meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " pode pegar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "userDefined": false
+      },
+      {
+        "text": " doença mesmo tendo sido ",
+        "userDefined": false
+      },
+      {
+        "text": "vacinado contra",
+        "userDefined": false
+      },
+      {
+        "text": " ela?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "07859e98-4ad3-4124-9ba9-1404e647bcea",
+    "data": [
+      {
+        "text": "Meu filho",
+        "userDefined": false
+      },
+      {
+        "text": " pode contrair a doença ",
+        "userDefined": false
+      },
+      {
+        "text": "mesmo",
+        "userDefined": true
+      },
+      {
+        "text": " depois ",
+        "userDefined": false
+      },
+      {
+        "text": "de vacinado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
