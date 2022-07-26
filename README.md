@@ -43,3 +43,7 @@ Atuei como desenvolvedora, com auxílio do Thiago.
 
 <img src="https://www.gstatic.com/dialogflow-console/common/assets/img/logo-es.png">
 
+<h1>Continuação do projeto</h1>
+
+Atualmente estamos migrando nosso projeto para a plataforma Blip e iremos apresentar na Bots Brasil.
+
